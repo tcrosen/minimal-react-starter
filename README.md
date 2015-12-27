@@ -1,19 +1,9 @@
 # Minimal React Starter
 
-A simple, clean start for React web applications.
+A simple, clean starter kit for React web applications.
 
-**General**
+**Technologies**
 
 * ES6 (Babel)
-
-**UI**
-
 * React (ReactDOM)
-
-**Build**
-
 * Webpack
-
-**Tests**
-
-* *TBD*
