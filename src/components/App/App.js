@@ -8,7 +8,7 @@ import Version from '../Version/Version.js';
 // Webpack is going to read this file during each build and store the JSON
 // into the variable appInfo. Webpack also wraps each module so no globals leak
 // out, meaning `appInfo` will be a private variable available to the Component
-// at runtime. If you ran this with `npm start`, you can go edit that file 
+// at runtime. If you ran this with `npm start`, you can go edit that file
 // right now and the value will change in the browser.
 // --------------------------------------------------------------------------
 const appInfo = require('../../../package.json');

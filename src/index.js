@@ -1,8 +1,13 @@
 import React from 'react';
 import { render } from 'react-dom';
+import a11y from 'react-a11y';
 // Note: This is an intentionally verbose way of importing local files.
 // It will be cleaned up in more advanced iterations of this project.
 import App from './components/App/App.js';
+
+// Enable accessibility warnings.
+// Please leave this on in development and respectfully fix any problems.
+a11y(React);
 
 // --------------------------------------------------------------------------
 // Tip:
