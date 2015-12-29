@@ -1,16 +1,20 @@
 {
-  "name": "node-recipes",
+  "name": "minimal-react-starter",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple, clean starter kit for React web applications.",
+  "main": "src/index.js",
   "scripts": {
     "clean": "rimraf ./dist",
     "build": "npm run clean && webpack -p",
     "start": "webpack-dev-server --hot --inline",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcrosen/minimal-react-starter.git"
+  },
+  "author": "Terry Rosen <tcrosen@gmail.com> (https://github.com/tcrosen)",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.3.21",
     "babel-loader": "^6.2.0",
