@@ -12,7 +12,7 @@ A simple, clean starter kit for React web applications.
 
 | Stability | Full Stack | Tests | Deployable
 |---|---|---|---|
-| 1 | No | Yes | Yes
+| 1 | No | No | Yes
 
 *Stability Legend*
 

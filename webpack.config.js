@@ -48,7 +48,7 @@ module.exports = {
     }, {
       test: /\.scss$/,
       include: path.join(__dirname, 'src'),
-      // Tip: Loaders are interpreted from right-to-left.
+      // Tip: Loaders are run from right-to-left.
       // This means the SASS loader will first transpile down to CSS,
       // then the CSS loader will transpile down to inline styles.
       // This technique results in no external CSS files served by your application.
