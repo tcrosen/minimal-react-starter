@@ -2,11 +2,14 @@
 
 A simple, clean starter kit for React web applications.
 
-## Target Audience
+## Technologies
 
-| Javascript | ES2015/ES6 | React | Webpack |
-|---|---|---|---|
-| Intermediate | Beginner | Beginner | Beginner |
+|  | Target Audience | Notes
+|---|---|---|
+| Javascript | Intermediate | If you aren't comfortable with Javascript you may want to start with something simpler than a bundled ES6 React app (bleeding edge tech). |
+| ES2015/ES6 | Beginner | Verbose, consistent feature usage with helpful comments. |
+| React | Beginner | Verbose, consistent feature usage with helpful comments. |
+| Webpack | Beginner | Verbose, consistent feature usage with helpful comments. |
 
 ## Project Overview
 
