@@ -18,9 +18,9 @@ export default class Version extends Component {
     // --------------------------------------------------------------------------
     // Tip:
     //
-    // This technique is called destructuring. It is a cleaner way to declare
-    // which properties it requires from an object (in this case this.props),
-    // and also saves you from having to litter your HTML with `this.props.whatever`.
+    // This technique is called destructuring. It is specially useful for declaring
+    // which properties you expect to use from an object (in this case `this.props`).
+    // It also saves you from having to litter your HTML with `this.props.whatever`.
     //
     // Destructuring is new to JS in ES2015 (ES6), but React has
     // a similar implementation built-in to the JSX compiler.  While it may seem
