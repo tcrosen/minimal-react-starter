@@ -19,9 +19,9 @@ a11y(React);
 // ReactDOM.render(...)
 //
 // This is considered good practice with ES6 modules. It makes
-// your code more declaritive for humans, also enables AST mechanisms, which
-// means build tools can learn to only include what is necessary in your
-// distributed package for production use.  Amongst other things...
+// your code more declaritive for humans, and your build tools 
+// can automatically perform enhancements like Tree Shaking 
+// (http://www.2ality.com/2015/12/webpack-tree-shaking.html)
 // --------------------------------------------------------------------------
 render(
   <App />,
