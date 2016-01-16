@@ -1,6 +1,6 @@
 # Minimal React Starter
 
-A simple, clean starter kit for React web applications.
+A basic starter kit for React web applications that gets out of your way.
 
 ## Technologies
 
