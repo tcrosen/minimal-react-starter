@@ -7,14 +7,6 @@ export default class Version extends Component {
   }
 
   render() {
-    return (
-      <div className="Version">
-        Version: {this.props.version}
-      </div>
-    );
-  }
-
-  render() {
     // --------------------------------------------------------------------------
     // Tip:
     //
